@@ -5,7 +5,7 @@
 ![image](https://img.shields.io/badge/Time--Taken-4hrs-green)
 ![HTML&CSS](https://img.shields.io/badge/HTML-CSS-blue)
 ***
-## Check the live website [here]()
+## Check the live website [here](https://interior-design-p-10.netlify.app/ "netlify")
 ***
 ## My learnings
 1. Learned and implemented media queries.
